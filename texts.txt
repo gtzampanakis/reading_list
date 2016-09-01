@@ -1,0 +1,4 @@
+# reading_list
+Interesting things to read
+
+http://www.wisdom.weizmann.ac.il/~naor/PAPERS/dh.pdf
